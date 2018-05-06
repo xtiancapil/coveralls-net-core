@@ -1,0 +1,9 @@
+D:\coveralls.netcore\Coveralls\bin\Debug\netstandard2.0\Coveralls.deps.json
+D:\coveralls.netcore\Coveralls\bin\Debug\netstandard2.0\Coveralls.dll
+D:\coveralls.netcore\Coveralls\bin\Debug\netstandard2.0\Coveralls.pdb
+D:\coveralls.netcore\Coveralls\obj\Debug\netstandard2.0\Coveralls.csproj.CoreCompileInputs.cache
+D:\coveralls.netcore\Coveralls\obj\Debug\netstandard2.0\Coveralls.AssemblyInfoInputs.cache
+D:\coveralls.netcore\Coveralls\obj\Debug\netstandard2.0\Coveralls.AssemblyInfo.cs
+D:\coveralls.netcore\Coveralls\obj\Debug\netstandard2.0\Coveralls.dll
+D:\coveralls.netcore\Coveralls\obj\Debug\netstandard2.0\Coveralls.pdb
+D:\coveralls.netcore\Coveralls\obj\Debug\netstandard2.0\Coveralls.csprojResolveAssemblyReference.cache

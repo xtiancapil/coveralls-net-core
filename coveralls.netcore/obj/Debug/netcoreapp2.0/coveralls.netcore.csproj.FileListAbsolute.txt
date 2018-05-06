@@ -1,0 +1,17 @@
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.csprojResolveAssemblyReference.cache
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.Properties.Resources.resources
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.csproj.GenerateResource.cache
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.csproj.CoreCompileInputs.cache
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.AssemblyInfoInputs.cache
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.AssemblyInfo.cs
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\coveralls.netcore.dll.config
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\coveralls.netcore.deps.json
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\coveralls.netcore.runtimeconfig.json
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\coveralls.netcore.runtimeconfig.dev.json
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\coveralls.netcore.dll
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\coveralls.netcore.pdb
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\Coveralls.dll
+D:\coveralls.netcore\coveralls.netcore\bin\Debug\netcoreapp2.0\Coveralls.pdb
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.csproj.CopyComplete
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.dll
+D:\coveralls.netcore\coveralls.netcore\obj\Debug\netcoreapp2.0\coveralls.netcore.pdb

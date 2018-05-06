@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Files\Utilities.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Files\app.ts" />
+    <None Remove="Files\Cobertura.SingleFileCoverage.xml" />
+    <None Remove="Files\OpenCover.EmptyReport.xml" />
+    <None Remove="Files\OpenCover.SingleFileCoverage.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.3.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+    <PackageReference Include="NSubstitute" Version="3.1.0" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+    <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Files\app.ts" />
+    <EmbeddedResource Include="Files\Cobertura.SingleFileCoverage.xml" />
+    <EmbeddedResource Include="Files\OpenCover.EmptyReport.xml" />
+    <EmbeddedResource Include="Files\OpenCover.SingleFileCoverage.xml" />
+    <EmbeddedResource Include="Files\Utilities.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\coveralls.netcore\coveralls.netcore.csproj" />
+    <ProjectReference Include="..\Coveralls\Coveralls.csproj" />
+  </ItemGroup>
+
+</Project>
